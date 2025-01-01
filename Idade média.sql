@@ -1,0 +1,1 @@
+SELECT AVG(age) FROM costumer_table;
