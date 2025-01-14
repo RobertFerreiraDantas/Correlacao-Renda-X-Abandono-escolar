@@ -46,7 +46,7 @@ dados5500
 
 #Fazendo a correlação de Pearson para comparar o valor com Spearman
 corr = dados5500["Renda_Media"].corr(dados5500["Taxa_Abandono"])
-corr
+print(corr)
 
 #Fazendo o boxplot da Renda média
 plt.boxplot(dados_limpo["Renda_Media"])
