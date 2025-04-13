@@ -1,7 +1,7 @@
 # CORRELAÇÃO RENDA X ABANDONO ESCOLAR
 
 ## OBJETIVO
-Esse projeto visa entender se há uma correlação entre a renda média das escolas e a taxa de abandono. O código está disponível em "[correlacao_desvio.py](https://github.com/RobertFerreiraDantas/Correlacao-Renda-X-Abandono-escolar/blob/main/correlacao_desvio.py)". 
+Esse projeto visa entender se há uma correlação entre a renda média das escolas e a taxa de abandono. Cada escola no dataset irá ter uma renda média definida pela sua região/Estado e em seguida terá sua taxa de abandono ao lado. O código está disponível em "[correlacao_desvio.py](https://github.com/RobertFerreiraDantas/Correlacao-Renda-X-Abandono-escolar/blob/main/correlacao_desvio.py)" e os dados foram retirados daqui "[fonte](https://www.kaggle.com/datasets/joaoassaoka/taxa-de-abandono-escolar-por-renda-mdia-brasil)".
 
 ## TECNOLOGIAS/TÉCNICAS UTILIZADAS
 - Correlação
